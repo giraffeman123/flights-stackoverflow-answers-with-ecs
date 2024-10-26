@@ -1,0 +1,8 @@
+.terraform/*
+.terraform.*
+terraform.*
+*.pem
+.env
+aws-test.pem
+dev.tfvars
+provider.tf
